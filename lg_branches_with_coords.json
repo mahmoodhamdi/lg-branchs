@@ -1,0 +1,472 @@
+[
+  {
+    "name": "ال جي المهندسين",
+    "address": "367 شارع السودان - المهندسين - الجيزة",
+    "district": "المهندسين",
+    "governorate": "الجيزة",
+    "phone": "0233047888 / 01287344244",
+    "maps_url": "https://goo.gl/maps/KwA8p58R2UHEss2H9",
+    "lat": 30.0710875,
+    "lng": 31.1976029
+  },
+  {
+    "name": "ال جي الدقي",
+    "address": "10 شارع نوال - الدقي - الجيزة",
+    "district": "الدقي",
+    "governorate": "الجيزة",
+    "phone": "02-37618168 / 01143333334",
+    "maps_url": "https://goo.gl/maps/w4GrDfvZTFM4bdLZ9",
+    "lat": 30.0458875,
+    "lng": 31.2116654
+  },
+  {
+    "name": "ال جي سيتي ستارز",
+    "address": "مدينة نصر – سيتي ستارز – الدور الأول بجوار سعودي ماركت",
+    "district": "مدينة نصر",
+    "governorate": "القاهرة",
+    "phone": "01125880907 / 01201104341",
+    "maps_url": "https://goo.gl/maps/rYdu6ZnAHER7KWxNA",
+    "lat": 30.0740375,
+    "lng": 31.3459838
+  },
+  {
+    "name": "ال جي المعادي 1",
+    "address": "برج الحرية - تقاطع شارع 100 مع شارع 153 - المعادي - القاهرة",
+    "district": "المعادي",
+    "governorate": "القاهرة",
+    "phone": "1001514555",
+    "maps_url": "https://goo.gl/maps/6EFxcbBhJkZf6GPH9",
+    "lat": 29.9599875,
+    "lng": 31.2529519
+  },
+  {
+    "name": "ال جي الجديدة مصر",
+    "address": "ميدان تيرينف - 95 شارع عفان بن عثمان - الجديدة مصر - القاهرة",
+    "district": "الجديدة مصر",
+    "governorate": "القاهرة",
+    "phone": "222916534",
+    "maps_url": "https://goo.gl/maps/TponsEtxMpZpg13w7",
+    "lat": 30.0997625,
+    "lng": 31.3405144
+  },
+  {
+    "name": "ال جي المعادي 2",
+    "address": "بجوار بكس ستر - شارع النصر - المعادي - القاهرة",
+    "district": "المعادي",
+    "governorate": "القاهرة",
+    "phone": "0227545804 / 01552762074",
+    "maps_url": "https://goo.gl/maps/xjgXdqmWhTs7PNYy8",
+    "lat": 29.9755875,
+    "lng": 31.2810457
+  },
+  {
+    "name": "ال جي العبور",
+    "address": "داخل مول سيتي سنتر العبور - جولف - امام كارفور",
+    "district": "العبور",
+    "governorate": "القاهرة",
+    "phone": "01203999195 / 01127181855",
+    "maps_url": "https://goo.gl/maps/kzftE4vwQUG6QFq87",
+    "lat": 30.1738875,
+    "lng": 31.4736707
+  },
+  {
+    "name": "ال جي القطامية",
+    "address": "منطقة المعارض - قطعة 2 - طريق الدائري - التجمع الخامس - القاهرة الجديدة",
+    "district": "القاهرة الجديدة",
+    "governorate": "القاهرة",
+    "phone": "1100100999",
+    "maps_url": "https://goo.gl/maps/AS2NMXZeoqJ58kUx6",
+    "lat": 29.9935625,
+    "lng": 31.3838269
+  },
+  {
+    "name": "ال جي مصر مول",
+    "address": "داخل مصر مول - الدور الثاني - بوابة C2 - اكتوبر",
+    "district": "6 اكتوبر",
+    "governorate": "الجيزة",
+    "phone": "01028405033 / 01221614670",
+    "maps_url": "https://goo.gl/maps/BVJTTLVaCR9ZUxmX8",
+    "lat": 29.9724125,
+    "lng": 31.0134519
+  },
+  {
+    "name": "ال جي سيتي فيستيفال كايرو",
+    "address": "داخل مول سيتي فيستيفال - الدور الثاني - امام كارفور - بجوار صيدلية العزبي - القاهرة الجديدة",
+    "district": "القاهرة الجديدة",
+    "governorate": "القاهرة",
+    "phone": "1021070000",
+    "maps_url": "https://goo.gl/maps/s6ozERF2qx1uSE5Y9",
+    "lat": 30.0280625,
+    "lng": 31.4052644
+  },
+  {
+    "name": "ال جي مدينة نصر",
+    "address": "9 شارع سمير عبد الرؤوف - امتداد عبيد مكرم - مدينة نصر - القاهرة",
+    "district": "مدينة نصر",
+    "governorate": "القاهرة",
+    "phone": "0222743426 / 01112006783 / 01021011011",
+    "maps_url": "https://goo.gl/maps/L5LA9DAYH18cjQe69",
+    "lat": 30.0531375,
+    "lng": 31.3439519
+  },
+  {
+    "name": "ال جي العرب مول",
+    "address": "داخل العرب مول - بوابة 23 و 24 - بجوار السينما وامام مطعم لابوار - اكتوبر",
+    "district": "6 اكتوبر",
+    "governorate": "الجيزة",
+    "phone": "1021050000",
+    "maps_url": "https://goo.gl/maps/PN3nLanxspn2hfvx9",
+    "lat": 30.0055625,
+    "lng": 30.9690769
+  },
+  {
+    "name": "ال جي حلوان",
+    "address": "30 شارع مصطفى فهمي - بجوار بنك التعمير والاسكان - حلوان",
+    "district": "حلوان",
+    "governorate": "الجيزة",
+    "phone": "1270709393",
+    "maps_url": "https://goo.gl/maps/mkAJeMbHF6yAShsg6",
+    "lat": 29.8509125,
+    "lng": 31.3306082
+  },
+  {
+    "name": "ال جي مكرم",
+    "address": "شارع عبيد مكرم - امام مبنى المساعدات الاجنبية - مول سيتي سنتر مكرم - مدينة نصر",
+    "district": "مدينة نصر",
+    "governorate": "القاهرة",
+    "phone": "1270709911",
+    "maps_url": "https://goo.gl/maps/5t3nDWnheWD65Xr17",
+    "lat": 30.068601,
+    "lng": 31.3416543
+  },
+  {
+    "name": "ال جي مسكن الف",
+    "address": "15 شارع جسر السويس - ميدان مسكن الف - القاهرة",
+    "district": "مسكن الف",
+    "governorate": "القاهرة",
+    "phone": "1033937323",
+    "maps_url": "https://goo.gl/maps/wXH3p5fjCXscY5sq8",
+    "lat": 30.1174375,
+    "lng": 31.3351238
+  },
+  {
+    "name": "ال جي سيتي سنتر المعزة",
+    "address": "داخل سيتي سنتر المعزة - الدور الثاني - امام ملاهي جرافيتي",
+    "district": "سيتي سنتر المعزة",
+    "governorate": "القاهرة",
+    "phone": "1021090000",
+    "maps_url": "https://goo.gl/maps/119r4NZSDRAMppTF7",
+    "lat": 30.0387442,
+    "lng": 31.2575083
+  },
+  {
+    "name": "ال جي شمس عين",
+    "address": "77 شارع عصمت أحمد - بجوار شمس عين - القاهرة",
+    "district": "شمس عين",
+    "governorate": "القاهرة",
+    "phone": "1273720001",
+    "maps_url": "https://goo.gl/maps/oSGJmTjEFrZywNk98",
+    "lat": 30.1265839,
+    "lng": 31.3269139
+  },
+  {
+    "name": "ال جي مدينتي",
+    "address": "داخل مول اير اوبر - امام كارفور - مدينتي - القاهرة",
+    "district": "مدينتي",
+    "governorate": "القاهرة",
+    "phone": "1221130340",
+    "maps_url": "https://goo.gl/maps/S5Qj2vXezcT4xBzVA",
+    "lat": 30.1058379,
+    "lng": 31.6221622
+  },
+  {
+    "name": "ال جي الرحاب",
+    "address": "داخل مول كورنر - محور السادات - محل رقم EG03 - التجمع الاول - امام بوابة 6 - الرحاب - القاهرة الجديدة",
+    "district": "التجمع الاول - القاهرة الجديدة",
+    "governorate": "القاهرة",
+    "phone": "1200340952",
+    "maps_url": "https://maps.app.goo.gl/MfmsGjNFd5pqKDMHA",
+    "lat": 30.0530216,
+    "lng": 31.4888801
+  },
+  {
+    "name": "ال جي ديستريكت 5",
+    "address": "داخل مول ديستريكت 5 - بجوار سعودي ماركت - طريق العين السخنة - القاهرة الجديدة",
+    "district": "القاهرة الجديدة",
+    "governorate": "القاهرة",
+    "phone": "1050100083",
+    "maps_url": "https://maps.app.goo.gl/V11ZSoPts87a27dM6",
+    "lat": 29.9557671,
+    "lng": 31.4503098
+  },
+  {
+    "name": "ال جي مدينتي 2",
+    "address": "داخل مول سترب مدينتي - بجوار بنك CIB",
+    "district": "مدينتي",
+    "governorate": "القاهرة",
+    "phone": "1270785749",
+    "maps_url": "https://maps.app.goo.gl/iroQMVbanDGzu2A87",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "ال جي سيتي سنتر الاسكندرية",
+    "address": "داخل مول سيتي سنتر الاسكندرية - امام كارفور - محرم بيك",
+    "district": "محرم بيك",
+    "governorate": "الاسكندرية",
+    "phone": "1050100086",
+    "maps_url": "https://goo.gl/maps/smJrqvJUnXQX5p6n6",
+    "lat": 31.1670353,
+    "lng": 29.9299706
+  },
+  {
+    "name": "ال جي شاهين",
+    "address": "55 شارع بور سعيد - كامب شيزار - الاسكندرية",
+    "district": "كامب شيزار",
+    "governorate": "الاسكندرية",
+    "phone": "035917614 / 01221163393",
+    "maps_url": "https://goo.gl/maps/4ac6ijF3FPvcjuKP9",
+    "lat": 31.2133375,
+    "lng": 29.9206859
+  },
+  {
+    "name": "ال جي سموحة",
+    "address": "38 شارع توت عنخ امون - امام كنيسة السيدة العذراء مريم - بجوار بيت الشهيرة يوسف الصديق - النعمة - سموحة",
+    "district": "سموحة",
+    "governorate": "الاسكندرية",
+    "phone": "034291741 / 01065747825",
+    "maps_url": "https://goo.gl/maps/egwrZN4moBLG9zX8A",
+    "lat": 31.2143375,
+    "lng": 29.9379046
+  },
+  {
+    "name": "ال جي العجمي (وازن)",
+    "address": "طريق الاسكندرية - مطروح - ابو العجمي يوسف - امام مشويات ابو الحجاج - بجوار مسجد الصابرين",
+    "district": "العجمي",
+    "governorate": "الاسكندرية",
+    "phone": "1277775455",
+    "maps_url": "https://goo.gl/maps/XRyw3b1E2KzycoJ36",
+    "lat": 31.0885375,
+    "lng": 29.7506029
+  },
+  {
+    "name": "ال جي دسوق",
+    "address": "شارع سمير نصر - شارع الجيش - دسوق",
+    "district": "دسوق",
+    "governorate": "كفر الشيخ",
+    "phone": "0472550744 / 0472551292",
+    "maps_url": "https://goo.gl/maps/xm84RVCUuLCnEjUz5",
+    "lat": 31.1219375,
+    "lng": 30.6480297
+  },
+  {
+    "name": "ال جي ابو المطامير",
+    "address": "ابو المطامير - بجوار قسم شرطة ابو المطامير",
+    "district": "ابو المطامير",
+    "governorate": "البحيرة",
+    "phone": "1222257314",
+    "maps_url": "https://goo.gl/maps/7M8iTxFVZLD2j1yC7",
+    "lat": 30.9130625,
+    "lng": 30.1772484
+  },
+  {
+    "name": "ال جي كفر الدوار",
+    "address": "المدخل الرئيسي لكفر الدوار - الدوار - ابراج نصار - بجانب فتح الله",
+    "district": "كفر الدوار",
+    "governorate": "البحيرة",
+    "phone": "1010908756",
+    "maps_url": "https://goo.gl/maps/SFFtB3DNUR18ddop7",
+    "lat": 31.1282875,
+    "lng": 30.1230491
+  },
+  {
+    "name": "ال جي شبين الكوم",
+    "address": "شبين الكوم - بجانب الصندوق الاجتماعي - شارع الكليات",
+    "district": "شبين الكوم",
+    "governorate": "المنوفية",
+    "phone": "0482198368 / 0482198369",
+    "maps_url": "https://goo.gl/maps/BtqhzMi957L5BATF9",
+    "lat": 30.9797032,
+    "lng": 31.1757318
+  },
+  {
+    "name": "ال جي المحلة الكبرى",
+    "address": "ميدان المشحمة - بجوار كميدار للسياحة - المحلة الكبرى",
+    "district": "المحلة الكبرى",
+    "governorate": "الغربية",
+    "phone": "0402383003 / 01024118091 / 01099441102",
+    "maps_url": "https://goo.gl/maps/1iYVqMucwwog11Qt8",
+    "lat": 30.5802125,
+    "lng": 31.5149207
+  },
+  {
+    "name": "ال جي الزقازيق",
+    "address": "شارع التجنيد - ابراج الامل - بجوار مسجد المدينة المنورة - الزقازيق",
+    "district": "الزقازيق",
+    "governorate": "الشرقية",
+    "phone": "0552266646 / 01004141592 / 01211766811",
+    "maps_url": "https://goo.gl/maps/uWAx27ERs7eHz8BT7",
+    "lat": 30.7935375,
+    "lng": 31.0015457
+  },
+  {
+    "name": "ال جي طنطا",
+    "address": "شارع بطرس - بجانب مستشفى المغربي - طنطا",
+    "district": "طنطا",
+    "governorate": "الغربية",
+    "phone": "0403299648 / 01288813410",
+    "maps_url": "https://goo.gl/maps/coTyGBanZ18BzYYu8",
+    "lat": 31.0350625,
+    "lng": 31.3564988
+  },
+  {
+    "name": "ال جي المنصورة",
+    "address": "حي الجامعة - امام مستشفى الغزالي - المنصورة",
+    "district": "المنصورة",
+    "governorate": "الدقهلية",
+    "phone": "502351909",
+    "maps_url": "https://goo.gl/maps/gZ8G7qwBjQ7YJGMy7",
+    "lat": 31.4132875,
+    "lng": 31.7935144
+  },
+  {
+    "name": "ال جي دمياط",
+    "address": "شارع الكورنيش - بجوار نقابة المهندسين - امام بنك مصر - دمياط",
+    "district": "دمياط",
+    "governorate": "دمياط",
+    "phone": "0572232250 / 01005048468 / 01226266162",
+    "maps_url": "https://goo.gl/maps/tBvUzt54SAVf84h47",
+    "lat": 31.2457625,
+    "lng": 32.3162332
+  },
+  {
+    "name": "ال جي بورفؤاد",
+    "address": "15 شارع برج الجلاء - امام قصر الاميرة - حي بورفؤاد",
+    "district": "بورفؤاد",
+    "governorate": "بورسعيد",
+    "phone": "0663425543 / 01060081919",
+    "maps_url": "https://goo.gl/maps/1X7DTnD5ywfDA6d59",
+    "lat": 31.2696375,
+    "lng": 32.2951707
+  },
+  {
+    "name": "ال جي بورسعيد",
+    "address": "96 شارع 23 يوليو - بجوار مستشفى المبرة - بورسعيد",
+    "district": "بورسعيد",
+    "governorate": "بورسعيد",
+    "phone": "0663253350 / 01278560441",
+    "maps_url": "https://goo.gl/maps/gyRMQx1476Qm9bEy5",
+    "lat": 30.8241125,
+    "lng": 30.8166394
+  },
+  {
+    "name": "ال جي كفر الزيات",
+    "address": "شارع الجيش - امام فرع فودافون - كفر الزيات",
+    "district": "كفر الزيات",
+    "governorate": "الغربية",
+    "phone": "1099881589",
+    "maps_url": "https://goo.gl/maps/gyRMQx1476Qm9bEy5",
+    "lat": 30.8241125,
+    "lng": 30.8166394
+  },
+  {
+    "name": "ال جي منيا القمح",
+    "address": "مدينة منيا القمح - شارع سعد زغلول - امام مستشفى العاصمة",
+    "district": "منيا القمح",
+    "governorate": "الشرقية",
+    "phone": "1102339472",
+    "maps_url": "https://maps.app.goo.gl/DgVRUToQee4xchMy7",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "ال جي دمياط الجديدة",
+    "address": "دمياط الجديدة - امام مول داون تاون لامار - بجوار مركز الايمان للاشعة - شارع الاستاد المركزي (ب)",
+    "district": "دمياط الجديدة",
+    "governorate": "دمياط",
+    "phone": "01070904141 / 01070904142",
+    "maps_url": "https://maps.app.goo.gl/aK3L5SApiQssmDCU9",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "ال جي شبين الكوم 2",
+    "address": "شبين الكوم - شارع الكليات - بجوار المستشفى العسكري",
+    "district": "شبين الكوم",
+    "governorate": "المنوفية",
+    "phone": "1103180965",
+    "maps_url": "https://maps.app.goo.gl/Nv7TmnGV98LdnXTq6",
+    "lat": 30.5557292,
+    "lng": 31.0194727
+  },
+  {
+    "name": "ال جي سوهاج",
+    "address": "شارع اسيوط - امام مجمع المحاكم - سوهاج",
+    "district": "سوهاج",
+    "governorate": "سوهاج",
+    "phone": "0932715599 / 01211677165",
+    "maps_url": "https://goo.gl/maps/yMistEHM33Qwvavs7",
+    "lat": 26.5624125,
+    "lng": 31.6881116
+  },
+  {
+    "name": "ال جي المنيا 1",
+    "address": "المنيا - بجوار ميدان بالاس - شارع الجمهورية - شركة أحمد شحاتة",
+    "district": "المنيا",
+    "governorate": "المنيا",
+    "phone": "0862363496 / 01212180570 / 01004268505",
+    "maps_url": "https://goo.gl/maps/ooyCVSXhWNNGskcS8",
+    "lat": 28.0981875,
+    "lng": 30.7551859
+  },
+  {
+    "name": "ال جي الفيوم 1",
+    "address": "دوران منشية لطف الله - امام مسجد الشباب المسلمين - بجوار فرع فودافون القديم - احمد عطية - الفيوم",
+    "district": "الفيوم",
+    "governorate": "الفيوم",
+    "phone": "0842178600 / 01016773200",
+    "maps_url": "https://goo.gl/maps/kUDEhZW7CEJtJUpL7",
+    "lat": 29.3125875,
+    "lng": 30.8376082
+  },
+  {
+    "name": "ال جي الفيوم 2 - المسلة",
+    "address": "المسلة - 2 شارع جمال عبد الناصر - المنيا",
+    "district": "المسلة",
+    "governorate": "الفيوم",
+    "phone": "01024840008 / 01019881848",
+    "maps_url": "https://maps.app.goo.gl/6tjwcE1bjNqGhAzt7",
+    "lat": 29.3167787,
+    "lng": 30.8533889
+  },
+  {
+    "name": "ال جي اسيوط",
+    "address": "ميدان اسماء الله الحسنى - برج البدراوي - امام قاعة هارون الرشيد - اسيوط",
+    "district": "اسيوط",
+    "governorate": "اسيوط",
+    "phone": "0082130224 / 01065524307 / 01065524308",
+    "maps_url": "https://goo.gl/maps/mAh8SSJH5BKfaCot5",
+    "lat": 25.6962375,
+    "lng": 32.6435338
+  },
+  {
+    "name": "ال جي الاقصر",
+    "address": "شارع عبد المنعم العديسي - بجوار محطة قطار الاقصر - ومطعم توينكي - الاقصر",
+    "district": "الاقصر",
+    "governorate": "الاقصر",
+    "phone": "1007010622",
+    "maps_url": "https://goo.gl/maps/czeanUH5D43Gv2yP9",
+    "lat": 28.1068125,
+    "lng": 30.7518929
+  },
+  {
+    "name": "ال جي المنيا 2",
+    "address": "شارع طه حسين - سور نادي المنيا - امام قصر ثقافة المنيا - المنيا",
+    "district": "المنيا",
+    "governorate": "المنيا",
+    "phone": "1033173335",
+    "maps_url": "https://goo.gl/maps/czeanUH5D43Gv2yP9",
+    "lat": 28.1068125,
+    "lng": 30.7518929
+  }
+]
