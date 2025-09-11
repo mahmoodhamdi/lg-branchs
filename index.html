@@ -892,6 +892,25 @@
 
     <!-- Main Content -->
     <main id="main-content" role="main">
+                      
+                <!-- Search Input -->
+                <div class="search-container">
+                    <label for="searchInput" class="sr-only">البحث في الفروع</label>
+                    <input 
+                        type="text" 
+                        class="search-input" 
+                        id="searchInput" 
+                        placeholder="ابحث عن فرع بالاسم أو المنطقة..."
+                        aria-label="البحث في الفروع"
+                        autocomplete="off"
+                    >
+                    <div class="search-icon" aria-hidden="true">
+                        <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+                        </svg>
+                    </div>
+                </div>
+
         <!-- Location Status Section -->
         <section class="location-status" id="locationStatus" aria-labelledby="location-status-title">
             <div class="container">
@@ -916,15 +935,6 @@
             </div>
         </section>
 
-        <!-- Nearest Branch Section -->
-        <section class="nearest-branch" id="nearestBranchSection" style="display: none;" aria-labelledby="nearest-branch-title">
-            <div class="container">
-                <h2 class="section-title" id="nearest-branch-title">أقرب فرع إليك</h2>
-                <div class="nearest-card card" id="nearestCard">
-                    <!-- سيتم ملؤها بالجافاسكريبت -->
-                </div>
-            </div>
-        </section>
 
         <!-- Skeleton Loading for All Branches -->
         <section class="loading-skeleton" id="loadingSkeletonSection">
@@ -957,25 +967,7 @@
         <section class="all-branches" id="allBranchesSection" style="display: none;" aria-labelledby="all-branches-title">
             <div class="container">
                 <h2 class="section-title" id="all-branches-title">جميع الفروع مرتبة حسب المسافة</h2>
-                
-                <!-- Search Input -->
-                <div class="search-container">
-                    <label for="searchInput" class="sr-only">البحث في الفروع</label>
-                    <input 
-                        type="text" 
-                        class="search-input" 
-                        id="searchInput" 
-                        placeholder="ابحث عن فرع بالاسم أو المنطقة..."
-                        aria-label="البحث في الفروع"
-                        autocomplete="off"
-                    >
-                    <div class="search-icon" aria-hidden="true">
-                        <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24">
-                            <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
-                        </svg>
-                    </div>
-                </div>
-
+  
                 <div class="branches-grid" id="branchesGrid" role="list" aria-label="قائمة فروع LG">
                     <!-- سيتم ملؤها بالجافاسكريبت -->
                 </div>
@@ -1084,7 +1076,6 @@
             statusIcon: document.getElementById('statusIcon'),
             locationDetails: document.getElementById('locationDetails'),
             refreshLocationBtn: document.getElementById('refreshLocationBtn'),
-            nearestBranchSection: document.getElementById('nearestBranchSection'),
             nearestCard: document.getElementById('nearestCard'),
             loadingSkeletonSection: document.getElementById('loadingSkeletonSection'),
             allBranchesSection: document.getElementById('allBranchesSection'),
@@ -1410,8 +1401,7 @@
                 if (sortedBranches.length > 0 && sortedBranches[0].distance) {
                     const nearest = sortedBranches[0];
 
-                    updateNearestBranch(nearest);
-                    elements.nearestBranchSection.style.display = 'block';
+
 
                     // Update status message with user location + nearest branch
                     if (userLocation) {
@@ -1496,7 +1486,6 @@
         const showSkeletonLoading = () => {
             elements.loadingSkeletonSection.style.display = 'block';
             elements.allBranchesSection.style.display = 'none';
-            elements.nearestBranchSection.style.display = 'none';
         };
 
         const hideSkeletonLoading = () => {
@@ -1509,7 +1498,6 @@
         const showError = (message) => {
             elements.errorMessage.textContent = message;
             elements.errorSection.style.display = 'block';
-            elements.nearestBranchSection.style.display = 'none';
             elements.allBranchesSection.style.display = 'none';
             hideSkeletonLoading();
         };
