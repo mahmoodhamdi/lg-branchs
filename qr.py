@@ -231,7 +231,7 @@ if __name__ == "__main__":
     qr_gen = CustomQRGenerator()
     
     # بيانات المثال - رابط موقعك
-    url = "https://mahmoodhamdi.github.io/lg-branchs.io/"
+    url = "https://mahmoodhamdi.github.io/lg-branchs/"
     
     # إنشاء QR code أساسي
     print("إنشاء QR code أساسي...")
