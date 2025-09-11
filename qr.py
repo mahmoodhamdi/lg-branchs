@@ -231,7 +231,7 @@ if __name__ == "__main__":
     qr_gen = CustomQRGenerator()
     
     # بيانات المثال - رابط موقعك
-    url = "www.lg-branchs.store"
+    url = "https://www.lg-branchs.store"
     
     # إنشاء QR code أساسي
     print("إنشاء QR code أساسي...")
@@ -272,7 +272,7 @@ if __name__ == "__main__":
     
     # مجموعة QR codes لروابط متعددة
     urls_list = [
-        "www.lg-branchs.store",
+        "https://www.lg-branchs.store",
         
     ]
     
