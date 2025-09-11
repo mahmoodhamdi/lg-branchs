@@ -1,0 +1,9 @@
+# QR Code Generator Requirements
+qrcode[pil]
+Pillow
+cairosvg
+typing-extensions
+
+# Optional for advanced features
+numpy
+matplotlib
