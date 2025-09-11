@@ -272,7 +272,7 @@ if __name__ == "__main__":
     
     # مجموعة QR codes لروابط متعددة
     urls_list = [
-        "https://mahmoodhamdi.github.io/lg-branchs.io/",
+        "https://mahmoodhamdi.github.io/lg-branchs/",
         "https://lg.com",
         "https://lg.com/support"
     ]
