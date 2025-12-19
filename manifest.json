@@ -1,0 +1,36 @@
+{
+  "name": "LG Branch Finder - مصر",
+  "short_name": "LG Finder",
+  "description": "ابحث عن أقرب فرع LG إليك في مصر",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#C70851",
+  "orientation": "portrait-primary",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "logo-lg.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "navigation"],
+  "shortcuts": [
+    {
+      "name": "البحث عن فرع",
+      "short_name": "بحث",
+      "description": "ابحث عن أقرب فرع LG",
+      "url": "/?search=true",
+      "icons": [{ "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+    }
+  ]
+}
