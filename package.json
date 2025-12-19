@@ -1,0 +1,28 @@
+{
+  "name": "lg-branchs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:ui": "npx playwright test --ui",
+    "test:debug": "npx playwright test --debug",
+    "test:report": "npx playwright show-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmoodhamdi/lg-branchs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mahmoodhamdi/lg-branchs/issues"
+  },
+  "homepage": "https://github.com/mahmoodhamdi/lg-branchs#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0"
+  }
+}
