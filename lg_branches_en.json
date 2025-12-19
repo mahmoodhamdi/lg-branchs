@@ -1,0 +1,512 @@
+[
+  {
+    "name": "LG Mohandessin",
+    "address": "367 Sudan Street - Mohandessin - Giza",
+    "district": "Mohandessin",
+    "governorate": "Giza",
+    "phone": "01287344244 - 0233047888",
+    "maps_url": "https://www.google.com/maps/place/L.G/@30.0710875,31.1999176,83m/data=!3m1!1e3!4m12!1m5!3m4!2s8G2H35CX%2BCWM!8m2!3d30.0710875!4d31.1997969!3m5!1s0x145841e53c55fc3f:0xe9c4d46ee30ab1bf!8m2!3d30.0711558!4d31.2000771!16s%2Fg%2F11nt5p2xzq?entry=ttu",
+    "lat": 30.071154814643407,
+    "lng": 31.200097308005912
+  },
+  {
+    "name": "LG Dokki",
+    "address": "10 Nawal Street - Dokki - Giza",
+    "district": "Dokki",
+    "governorate": "Giza",
+    "phone": "01143333334 - 02-37618168",
+    "maps_url": "https://www.google.com/maps/place/LG+Dokki/@30.0460094,31.2138393,83m",
+    "lat": 30.045925815761496,
+    "lng": 31.213896967494435
+  },
+  {
+    "name": "LG City Stars",
+    "address": "Nasr City - City Stars - First Floor next to Saudi Market",
+    "district": "Nasr City",
+    "governorate": "Cairo",
+    "phone": "01201104341 - 01125880907",
+    "maps_url": "https://www.google.com/maps/place/%D8%A7%D9%84+%D8%AC%D9%8A+%D8%B3%D9%8A%D8%AA%D9%8A+%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2",
+    "lat": 30.074056676137598,
+    "lng": 31.34709222331357
+  },
+  {
+    "name": "LG Maadi 1",
+    "address": "Freedom Tower - Intersection of Street 100 & Street 153 - Maadi - Cairo",
+    "district": "Maadi",
+    "governorate": "Cairo",
+    "phone": "01001514555",
+    "maps_url": "https://www.google.com/maps/place/LG+Maadi/@29.9599875,31.2551406",
+    "lat": 29.9599875,
+    "lng": 31.2551406
+  },
+  {
+    "name": "LG Heliopolis",
+    "address": "Tirenf Square - 95 Affan Bin Othman Street - Heliopolis - Cairo",
+    "district": "Heliopolis",
+    "governorate": "Cairo",
+    "phone": "0222916534",
+    "maps_url": "https://goo.gl/maps/TponsEtxMpZpg13w7",
+    "lat": 29.96032212621822,
+    "lng": 31.255204973017047
+  },
+  {
+    "name": "LG Maadi 2",
+    "address": "Next to Box Star - El Nasr Street - Maadi - Cairo",
+    "district": "Maadi",
+    "governorate": "Cairo",
+    "phone": "01552762074 - 0227545804",
+    "maps_url": "https://www.google.com/maps/place/LG/@29.9755875,31.2832344",
+    "lat": 29.975773374410494,
+    "lng": 31.28311638280209
+  },
+  {
+    "name": "LG El Obour",
+    "address": "Inside City Center El Obour Mall - Golf - In front of Carrefour",
+    "district": "El Obour",
+    "governorate": "Cairo",
+    "phone": "01127181855 - 01203999195",
+    "maps_url": "https://www.google.com/maps/place/LG/@30.1738875,31.4758594",
+    "lat": 30.17394182805636,
+    "lng": 31.475847751276085
+  },
+  {
+    "name": "LG Katameya",
+    "address": "Exhibition Area - Plot 2 - Ring Road - 5th Settlement - New Cairo",
+    "district": "New Cairo",
+    "governorate": "Cairo",
+    "phone": "01100100999",
+    "maps_url": "https://www.google.com/maps/place/LG+Katameya/@29.9934268,31.3862618",
+    "lat": 29.993390878964313,
+    "lng": 31.38599246969539
+  },
+  {
+    "name": "LG Mall of Egypt",
+    "address": "Inside Mall of Egypt - Second Floor - Gate C2 - October",
+    "district": "6th of October",
+    "governorate": "Giza",
+    "phone": "01221614670 - 01028405033",
+    "maps_url": "https://goo.gl/maps/BVJTTLVaCR9ZUxmX8",
+    "lat": 29.972422810134837,
+    "lng": 31.015637796600874
+  },
+  {
+    "name": "LG Cairo Festival City Mall",
+    "address": "Inside Cairo Festival City Mall - Second Floor - In front of Carrefour - Next to Al Ezaby Pharmacy - New Cairo",
+    "district": "New Cairo",
+    "governorate": "Cairo",
+    "phone": "01021070000",
+    "maps_url": "https://goo.gl/maps/s6ozERF2qx1uSE5Y9",
+    "lat": 30.028072150244466,
+    "lng": 31.40745266980462
+  },
+  {
+    "name": "LG Nasr City",
+    "address": "9 Samir Abdel Raouf Street - Obeid Makram Extension - Nasr City - Cairo",
+    "district": "Nasr City",
+    "governorate": "Cairo",
+    "phone": "0222743426 - 01021011011 - 01112006783",
+    "maps_url": "https://www.google.com/maps/place/LG/@30.0531375,31.3461406",
+    "lat": 30.053416093567503,
+    "lng": 31.346183515344688
+  },
+  {
+    "name": "LG Mall of Arabia",
+    "address": "Inside Mall of Arabia - Gate 23 & 24 - Next to Cinema and La Poire Restaurant - October",
+    "district": "6th of October",
+    "governorate": "Giza",
+    "phone": "01021050000",
+    "maps_url": "https://www.google.com/maps/place/LG+Mall+Of+Arabia/@30.0055625,30.9712656",
+    "lat": 30.00570186375549,
+    "lng": 30.971383617197908
+  },
+  {
+    "name": "LG Helwan",
+    "address": "30 Mostafa Fahmy Street - Next to Housing & Development Bank - Helwan",
+    "district": "Helwan",
+    "governorate": "Giza",
+    "phone": "01270709393",
+    "maps_url": "https://www.google.com/maps/place/LG/@29.8509736,31.3327533",
+    "lat": 29.850815956718243,
+    "lng": 31.332802264419115
+  },
+  {
+    "name": "LG Makram",
+    "address": "Obeid Makram Street - In front of Foreign Aid Building - City Center Makram Mall - Nasr City",
+    "district": "Nasr City",
+    "governorate": "Cairo",
+    "phone": "01270709911",
+    "maps_url": "https://www.google.com/maps/place/LG+-+%D8%A5%D9%84+%D8%AC%D9%8A",
+    "lat": 30.0684794175533,
+    "lng": 31.343799609803565
+  },
+  {
+    "name": "LG Alf Maskan",
+    "address": "15 Suez Canal Bridge Street - Alf Maskan Square - Cairo",
+    "district": "Alf Maskan",
+    "governorate": "Cairo",
+    "phone": "01033937323",
+    "maps_url": "https://goo.gl/maps/wXH3p5fjCXscY5sq8",
+    "lat": 30.117446200401826,
+    "lng": 31.337315164788542
+  },
+  {
+    "name": "LG City Center Almaza",
+    "address": "Inside City Center Almaza - Second Floor - In front of Gravity Games",
+    "district": "City Center Almaza",
+    "governorate": "Cairo",
+    "phone": "01021090000",
+    "maps_url": "https://www.google.com/maps/place/LG/@30.0765705,31.3600703",
+    "lat": 30.083632418425452,
+    "lng": 31.366034132898594
+  },
+  {
+    "name": "LG Ain Shams",
+    "address": "77 Esmat Ahmed Street - Next to Ain Shams - Cairo",
+    "district": "Ain Shams",
+    "governorate": "Cairo",
+    "phone": "01273720001",
+    "maps_url": "https://goo.gl/maps/oSGJmTjEFrZywNk98",
+    "lat": 30.12674525255982,
+    "lng": 31.329035398146782
+  },
+  {
+    "name": "LG Madinaty",
+    "address": "Inside Air Uber Mall - In front of Carrefour - Madinaty - Cairo",
+    "district": "Madinaty",
+    "governorate": "Cairo",
+    "phone": "01221130340",
+    "maps_url": "https://goo.gl/maps/S5Qj2vXezcT4xBzVA",
+    "lat": 30.10711874136146,
+    "lng": 31.629093028168263
+  },
+  {
+    "name": "LG El Rehab",
+    "address": "Inside Corner Mall - Sadat Axis - Shop EG03 - 1st Settlement - In front of Gate 6 - El Rehab - New Cairo",
+    "district": "1st Settlement - New Cairo",
+    "governorate": "Cairo",
+    "phone": "01200340952",
+    "maps_url": "https://maps.app.goo.gl/MfmsGjNFd5pqKDMHA",
+    "lat": 30.053053681042428,
+    "lng": 31.489515546627125
+  },
+  {
+    "name": "LG District 5",
+    "address": "Inside District 5 Mall - Next to Saudi Market - Ain Sokhna Road - New Cairo",
+    "district": "New Cairo",
+    "governorate": "Cairo",
+    "phone": "01050100083",
+    "maps_url": "https://maps.app.goo.gl/V11ZSoPts87a27dM6",
+    "lat": 29.95596700262543,
+    "lng": 31.45290615767235
+  },
+  {
+    "name": "LG Madinaty 2",
+    "address": "Inside Madinaty Strip Mall - Next to CIB Bank",
+    "district": "Madinaty",
+    "governorate": "Cairo",
+    "phone": "01270785749",
+    "maps_url": "https://maps.app.goo.gl/iroQMVbanDGzu2A87",
+    "lat": 30.072432314287056,
+    "lng": 31.648688998114075
+  },
+  {
+    "name": "LG City Center Alexandria",
+    "address": "Inside City Center Alexandria Mall - In front of Carrefour - Moharam Bek",
+    "district": "Moharam Bek",
+    "governorate": "Alexandria",
+    "phone": "01050100086",
+    "maps_url": "https://goo.gl/maps/smJrqvJUnXQX5p6n6",
+    "lat": 31.16757693372519,
+    "lng": 29.932406045811454
+  },
+  {
+    "name": "LG Shaheen",
+    "address": "55 Port Said Street - Camp Shizar - Alexandria",
+    "district": "Camp Shizar",
+    "governorate": "Alexandria",
+    "phone": "01221163393 - 035917614",
+    "maps_url": "https://www.google.com/maps/place/LG+shaheen/@31.2132872,29.9213166",
+    "lat": 31.213322756116035,
+    "lng": 29.92113420978505
+  },
+  {
+    "name": "LG Smouha",
+    "address": "38 Tutankhamun Street - In front of Virgin Mary Church - Next to Youssef Al Seddik House - Al Neama - Smouha",
+    "district": "Smouha",
+    "governorate": "Alexandria",
+    "phone": "034291741 - 01065747825",
+    "maps_url": "https://www.google.com/maps/place/LG/@31.2144141,29.9385554",
+    "lat": 31.214511591382383,
+    "lng": 29.93851516686435
+  },
+  {
+    "name": "LG El Agami (Wazen)",
+    "address": "Alexandria - Matrouh Road - Abu El Agami Youssef - In front of Abu El Hagag Grills - Next to Al Sabreen Mosque",
+    "district": "El Agami",
+    "governorate": "Alexandria",
+    "phone": "01277775455",
+    "maps_url": "https://www.google.com/maps/place/LG/@31.0885375,29.7527969",
+    "lat": 31.088693693449056,
+    "lng": 29.752839815344696
+  },
+  {
+    "name": "LG Desouk",
+    "address": "Samir Nasr Street - Army Street - Desouk",
+    "district": "Desouk",
+    "governorate": "Kafr El Sheikh",
+    "phone": "0472551292 - 0472550744",
+    "maps_url": "https://www.google.com/maps/place/LG/@31.1219375,30.6480297",
+    "lat": 31.12199490389806,
+    "lng": 30.648212090214948
+  },
+  {
+    "name": "LG Abu El Matamir",
+    "address": "Abu El Matamir - Next to Abu El Matamir Police Station",
+    "district": "Abu El Matamir",
+    "governorate": "Beheira",
+    "phone": "01222257314",
+    "maps_url": "https://goo.gl/maps/7M8iTxFVZLD2j1yC7",
+    "lat": 30.91307228007949,
+    "lng": 30.17738854542252
+  },
+  {
+    "name": "LG Kafr El Dawar",
+    "address": "Main Entrance of Kafr El Dawar - El Dawar - Nassar Towers - Next to Fathalla",
+    "district": "Kafr El Dawar",
+    "governorate": "Beheira",
+    "phone": "01010908756",
+    "maps_url": "https://www.google.com/maps/place/LG+%D9%85%D8%B9%D8%B1%D8%B6+%D9%86%D8%B5%D8%A7%D8%B1",
+    "lat": 31.12828520399702,
+    "lng": 30.123100061971822
+  },
+  {
+    "name": "LG Ismailia",
+    "address": "Maradona Center - Tanta Square",
+    "district": "Ismailia",
+    "governorate": "Ismailia",
+    "phone": "01210888325",
+    "maps_url": "https://www.google.com/maps/place/LG+BRAND+SHOP+ISMAILIA/@30.596021,32.2679957",
+    "lat": 30.59588466270886,
+    "lng": 32.26801113102513
+  },
+  {
+    "name": "LG El Mahalla El Kubra",
+    "address": "El Mashhama Square - Next to Komedar Tourism - El Mahalla El Kubra",
+    "district": "El Mahalla El Kubra",
+    "governorate": "Gharbia",
+    "phone": "0402383003 - 01099441102 - 01024118091",
+    "maps_url": "https://www.google.com/maps/place/LG/@30.5802125,31.5171094",
+    "lat": 30.580397232734185,
+    "lng": 31.51708794232765
+  },
+  {
+    "name": "LG Zagazig",
+    "address": "Recruitment Street - Al Amal Towers - Next to Al Madina Al Munawwara Mosque - Zagazig",
+    "district": "Zagazig",
+    "governorate": "Sharqia",
+    "phone": "0552266646 - 01211766811 - 01004141592",
+    "maps_url": "https://goo.gl/maps/uWAx27ERs7eHz8BT7",
+    "lat": 30.79354959633607,
+    "lng": 31.003735601510172
+  },
+  {
+    "name": "LG Tanta",
+    "address": "Botros Street - Next to El Maghraby Hospital - Tanta",
+    "district": "Tanta",
+    "governorate": "Gharbia",
+    "phone": "0403299648 - 01288813410",
+    "maps_url": "https://www.google.com/maps/place/LG+Store+-+Awad+Serag/@31.0350946,31.3587402",
+    "lat": 31.034986029401278,
+    "lng": 31.358629559787058
+  },
+  {
+    "name": "LG Mansoura",
+    "address": "University District - In front of El Ghazali Hospital - Mansoura",
+    "district": "Mansoura",
+    "governorate": "Dakahlia",
+    "phone": "0502351909",
+    "maps_url": "https://www.google.com/maps/place/LG/@31.4132368,31.7957213",
+    "lat": 31.413336404972767,
+    "lng": 31.79568442502425
+  },
+  {
+    "name": "LG Damietta",
+    "address": "Corniche Street - Next to Engineers Syndicate - In front of Banque Misr - Damietta",
+    "district": "Damietta",
+    "governorate": "Damietta",
+    "phone": "0572232250 - 01226266162 - 01005048468",
+    "maps_url": "https://www.google.com/maps/place/LG/@31.2457625,32.3184219",
+    "lat": 31.24591843442388,
+    "lng": 32.31836825581913
+  },
+  {
+    "name": "LG Port Fouad",
+    "address": "15 Galaa Tower Street - In front of Princess Palace - Port Fouad District",
+    "district": "Port Fouad",
+    "governorate": "Port Said",
+    "phone": "0663425543 - 01060081919",
+    "maps_url": "https://goo.gl/maps/1X7DTnD5ywfDA6d59",
+    "lat": 31.269646097155245,
+    "lng": 32.29735470613382
+  },
+  {
+    "name": "LG Port Said",
+    "address": "96 July 23rd Street - Next to Mabarra Hospital - Port Said",
+    "district": "Port Said",
+    "governorate": "Port Said",
+    "phone": "0663253350 - 01278560441",
+    "maps_url": "https://www.google.com/maps/place/LG/@30.824116,30.8188141",
+    "lat": 30.824114252669066,
+    "lng": 30.818885821835636
+  },
+  {
+    "name": "LG Kafr El Zayat",
+    "address": "Army Street - In front of Vodafone Branch - Kafr El Zayat",
+    "district": "Kafr El Zayat",
+    "governorate": "Gharbia",
+    "phone": "01099881589",
+    "maps_url": "https://www.google.com/maps/place/LG/@30.8241384,30.8187476",
+    "lat": 30.824116530830484,
+    "lng": 30.81888509694218
+  },
+  {
+    "name": "LG Minya El Qamh",
+    "address": "Minya El Qamh City - Saad Zaghloul Street - In front of Capital Hospital",
+    "district": "Minya El Qamh",
+    "governorate": "Sharqia",
+    "phone": "01102339472",
+    "maps_url": "https://maps.app.goo.gl/DgVRUToQee4xchMy7",
+    "lat": 30.51995867131619,
+    "lng": 31.35380499030197
+  },
+  {
+    "name": "LG New Damietta",
+    "address": "New Damietta - In front of Downtown Lamar Mall - Next to Al Iman Radiology Center - Central Stadium Street (B)",
+    "district": "New Damietta",
+    "governorate": "Damietta",
+    "phone": "01070904142 - 01070904141",
+    "maps_url": "https://maps.app.goo.gl/aK3L5SApiQssmDCU9",
+    "lat": 31.438684980798605,
+    "lng": 31.67180087944573
+  },
+  {
+    "name": "LG Sohag",
+    "address": "Assiut Street - In front of Courts Complex - Sohag",
+    "district": "Sohag",
+    "governorate": "Sohag",
+    "phone": "01211677165 - 0932715599",
+    "maps_url": "https://goo.gl/maps/yMistEHM33Qwvavs7",
+    "lat": 26.562417897965585,
+    "lng": 31.688255768736088
+  },
+  {
+    "name": "LG Minya 1",
+    "address": "Minya - Next to Palace Square - Republic Street - Ahmed Shehata Company",
+    "district": "Minya",
+    "governorate": "Minya",
+    "phone": "0862363496 - 01004268505 - 01212180570",
+    "maps_url": "https://goo.gl/maps/ooyCVSXhWNNGskcS8",
+    "lat": 28.09819982970378,
+    "lng": 30.755733215780477
+  },
+  {
+    "name": "LG Fayoum 1 - Ahmed Attia",
+    "address": "Lotfallah Roundabout - In front of Muslim Youth Mosque - Next to Old Vodafone Branch - Ahmed Attia - Fayoum",
+    "district": "Fayoum",
+    "governorate": "Fayoum",
+    "phone": "0842178600 - 01016773200",
+    "maps_url": "https://goo.gl/maps/kUDEhZW7CEJtJUpL7",
+    "lat": 29.31259919391695,
+    "lng": 30.839796229446403
+  },
+  {
+    "name": "LG Fayoum 2 - El Masala - Ahmed Nasr",
+    "address": "El Masala - 2 Gamal Abdel Nasser Street - Minya",
+    "district": "El Masala",
+    "governorate": "Fayoum",
+    "phone": "01019881848 - 01024840008",
+    "maps_url": "https://www.google.com/maps/place/LG/@29.3168135,30.8540908",
+    "lat": 29.316789493434825,
+    "lng": 30.854082044935936
+  },
+  {
+    "name": "LG Assiut",
+    "address": "Asma Allah Al Husna Square - El Badrawi Tower - In front of Haroun Al Rashid Hall - Assiut",
+    "district": "Assiut",
+    "governorate": "Assiut",
+    "phone": "01065524307 - 01065524308 - 0082130224",
+    "maps_url": "https://goo.gl/maps/mAh8SSJH5BKfaCot5",
+    "lat": 25.696249061931283,
+    "lng": 32.64367193376574
+  },
+  {
+    "name": "LG Luxor",
+    "address": "Abdel Moneim El Adissi Street - Next to Luxor Train Station - and Twinky Restaurant - Luxor",
+    "district": "Luxor",
+    "governorate": "Luxor",
+    "phone": "01007010622",
+    "maps_url": "https://www.google.com/maps/place/LG/@28.1067948,30.75208",
+    "lat": 28.106884068401442,
+    "lng": 30.75215307427722
+  },
+  {
+    "name": "LG Minya 2",
+    "address": "Taha Hussein Street - Minya Sports Club Wall - In front of Minya Culture Palace",
+    "district": "Minya",
+    "governorate": "Minya",
+    "phone": "01033173335",
+    "maps_url": "https://www.google.com/maps/place/LG/@28.1067747,30.7521018",
+    "lat": 28.10689059308704,
+    "lng": 30.75215812638991
+  },
+  {
+    "name": "LG Beni Suef",
+    "address": "96 July 23rd Street - Next to Badr Park",
+    "district": "Beni Suef",
+    "governorate": "Beni Suef",
+    "phone": "01069050500 - 0822126664",
+    "maps_url": "https://www.google.com/maps/place/%D8%A7%D9%84+%D8%AC%D9%89+%D8%A8%D9%86%D9%89+%D8%B3%D9%88%D9%8A%D9%81",
+    "lat": 29.075941016280936,
+    "lng": 31.10300671933528
+  },
+  {
+    "name": "LG Qena",
+    "address": "Qena - Dolphin Square - Corniche Road Extension - Before Dendera Bridge",
+    "district": "Qena",
+    "governorate": "Qena",
+    "phone": "01008887617 - 01117772613",
+    "maps_url": "https://maps.app.goo.gl/FYYhDHAW2X1QvY8f6",
+    "lat": 26.155923367759154,
+    "lng": 32.705679209516894
+  },
+  {
+    "name": "LG Assiut 2",
+    "address": "Assiut - Republic Street - Sama Tower - Next to Cairo Bank",
+    "district": "Assiut",
+    "governorate": "Assiut",
+    "phone": "01280769096",
+    "maps_url": "https://maps.app.goo.gl/swabFUQ1JGJEqVu86",
+    "lat": 27.18542273660644,
+    "lng": 31.185880658895346
+  },
+  {
+    "name": "LG Shebin El Kom 2",
+    "address": "Shebin El Kom - Colleges Street - Next to Military Hospital",
+    "district": "Shebin El Kom",
+    "governorate": "Menoufia",
+    "phone": "01103180965",
+    "maps_url": "https://maps.app.goo.gl/Nv7TmnGV98LdnXTq6",
+    "lat": 30.56240457410285,
+    "lng": 31.010102169243233
+  },
+  {
+    "name": "LG Shebin El Kom",
+    "address": "El Khawaga - Shebin El Kom - Next to Social Fund",
+    "district": "Shebin El Kom",
+    "governorate": "Menoufia",
+    "phone": "0482198368 - 0482198369",
+    "maps_url": "https://www.google.com/maps/place/%D9%85%D8%B9%D8%B1%D8%B6+%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%AC%D8%A9",
+    "lat": 30.555437602343094,
+    "lng": 31.020029395340305
+  }
+]
