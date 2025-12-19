@@ -2,7 +2,7 @@
 
 A modern, responsive web application to find the nearest LG branch in Egypt. Built with vanilla JavaScript, HTML5, and CSS3.
 
-![LG Branch Finder](screenshots/desktop-chrome-01-homepage-loaded.png)
+![LG Branch Finder](screenshots/desktop-light.png)
 
 ## Features
 
@@ -29,20 +29,9 @@ A modern, responsive web application to find the nearest LG branch in Egypt. Bui
 
 ## Screenshots
 
-### Desktop Views
-| Light Mode | Dark Mode |
-|------------|-----------|
-| ![Light](screenshots/desktop-chrome-06-light-mode.png) | ![Dark](screenshots/desktop-chrome-07-dark-mode.png) |
-
-### Mobile Views
-| Homepage | Branch Cards |
-|----------|--------------|
-| ![Mobile Home](screenshots/mobile-chrome-01-homepage-loaded.png) | ![Mobile Cards](screenshots/mobile-chrome-17-branch-card-details.png) |
-
-### Features
-| Search | Governorate Filter |
-|--------|-------------------|
-| ![Search](screenshots/desktop-chrome-11-search-results.png) | ![Filter](screenshots/desktop-chrome-15-filtered-by-governorate.png) |
+| Desktop | Mobile | Dark Mode |
+|---------|--------|-----------|
+| ![Desktop](screenshots/desktop-light.png) | ![Mobile](screenshots/mobile-light.png) | ![Dark](screenshots/desktop-dark.png) |
 
 ## Installation
 
