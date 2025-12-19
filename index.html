@@ -10,10 +10,18 @@
     <meta property="og:description" content="ابحث عن أقرب فرع LG إليك في مصر ">
     <meta property="og:type" content="website">
     <meta name="robots" content="index, follow">
-    
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; connect-src 'self' https://nominatim.openstreetmap.org https://www.google-analytics.com; font-src 'self';">
+
+    <!-- PWA Meta Tags -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#C70851">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="LG Finder">
+
     <title>العثور على أقرب فرع LG - مصر</title>
-    
-    <link rel="stylesheet" href="style.css">
+
+    <link rel="stylesheet" href="style.min.css">
     <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-QHPYCNNZVZ"></script>
 <script>
@@ -33,6 +41,22 @@
         <div class="container">
             <div class="header-content">
                 <div class="logo-container">
+                    <!-- Header Actions -->
+                    <div class="header-actions">
+                        <!-- Language Toggle -->
+                        <button id="langToggle" class="lang-toggle" aria-label="Switch to English">
+                            English
+                        </button>
+                        <!-- Dark Mode Toggle -->
+                        <button id="darkModeToggle" class="dark-mode-toggle" aria-label="تبديل الوضع الليلي" title="تبديل الوضع الليلي">
+                        <svg class="sun-icon" width="20" height="20" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zM2 13h2c.55 0 1-.45 1-1s-.45-1-1-1H2c-.55 0-1 .45-1 1s.45 1 1 1zm18 0h2c.55 0 1-.45 1-1s-.45-1-1-1h-2c-.55 0-1 .45-1 1s.45 1 1 1zM11 2v2c0 .55.45 1 1 1s1-.45 1-1V2c0-.55-.45-1-1-1s-1 .45-1 1zm0 18v2c0 .55.45 1 1 1s1-.45 1-1v-2c0-.55-.45-1-1-1s-1 .45-1 1zM5.99 4.58c-.39-.39-1.03-.39-1.41 0-.39.39-.39 1.03 0 1.41l1.06 1.06c.39.39 1.03.39 1.41 0s.39-1.03 0-1.41L5.99 4.58zm12.37 12.37c-.39-.39-1.03-.39-1.41 0-.39.39-.39 1.03 0 1.41l1.06 1.06c.39.39 1.03.39 1.41 0 .39-.39.39-1.03 0-1.41l-1.06-1.06zm1.06-10.96c.39-.39.39-1.03 0-1.41-.39-.39-1.03-.39-1.41 0l-1.06 1.06c-.39.39-.39 1.03 0 1.41s1.03.39 1.41 0l1.06-1.06zM7.05 18.36c.39-.39.39-1.03 0-1.41-.39-.39-1.03-.39-1.41 0l-1.06 1.06c-.39.39-.39 1.03 0 1.41s1.03.39 1.41 0l1.06-1.06z"/>
+                        </svg>
+                        <svg class="moon-icon" width="20" height="20" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M12 3c-4.97 0-9 4.03-9 9s4.03 9 9 9 9-4.03 9-9c0-.46-.04-.92-.1-1.36-.98 1.37-2.58 2.26-4.4 2.26-2.98 0-5.4-2.42-5.4-5.4 0-1.81.89-3.42 2.26-4.4-.44-.06-.9-.1-1.36-.1z"/>
+                        </svg>
+                    </button>
+                    </div>
                     <svg class="lg-logo" viewBox="0 0 225 99" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="شعار LG">
                         <g clip-path="url(#clip0_415_130964)">
                             <path d="M134.874 68.7831H165.274V81.2487H120.202V17.2373H134.874V68.7831Z" fill="#707070"/>
@@ -60,21 +84,32 @@
     <!-- Main Content -->
     <main id="main-content" role="main">
                       
-                <!-- Search Input -->
-                <div class="search-container">
-                    <label for="searchInput" class="sr-only">البحث في الفروع</label>
-                    <input 
-                        type="text" 
-                        class="search-input" 
-                        id="searchInput" 
-                        placeholder="ابحث عن فرع بالاسم أو المنطقة..."
-                        aria-label="البحث في الفروع"
-                        autocomplete="off"
-                    >
-                    <div class="search-icon" aria-hidden="true">
-                        <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24">
-                            <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
-                        </svg>
+                <!-- Search and Filter Container -->
+                <div class="search-filter-container">
+                    <!-- Search Input -->
+                    <div class="search-container">
+                        <label for="searchInput" class="sr-only">البحث في الفروع</label>
+                        <input
+                            type="text"
+                            class="search-input"
+                            id="searchInput"
+                            placeholder="ابحث عن فرع بالاسم أو المنطقة..."
+                            aria-label="البحث في الفروع"
+                            autocomplete="off"
+                        >
+                        <div class="search-icon" aria-hidden="true">
+                            <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24">
+                                <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+                            </svg>
+                        </div>
+                    </div>
+
+                    <!-- Governorate Filter -->
+                    <div class="filter-container">
+                        <label for="governorateFilter" class="sr-only">فلترة حسب المحافظة</label>
+                        <select id="governorateFilter" class="filter-select" aria-label="فلترة حسب المحافظة">
+                            <option value="">كل المحافظات</option>
+                        </select>
                     </div>
                 </div>
 
@@ -89,9 +124,16 @@
                         </svg>
                     </div>
                     <div class="status-text">
-                        <p id="statusMessage">جاري تحديد موقعك...</p>
+                        <p id="statusMessage">نحتاج إذنك لتحديد موقعك حتى نتمكن من عرض أقرب فرع LG إليك</p>
+                        <p class="status-hint">سيتم استخدام موقعك فقط لحساب المسافة ولن يتم تخزينه</p>
                         <div id="locationDetails" class="location-details" style="display: none;"></div>
-                        <button id="refreshLocationBtn" class="btn btn-primary" style="display: none;" aria-label="إعادة تحديد الموقع">
+                        <button id="getLocationBtn" class="btn btn-primary" aria-label="تحديد موقعي">
+                            <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                                <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
+                            </svg>
+                            السماح بتحديد الموقع
+                        </button>
+                        <button id="refreshLocationBtn" class="btn btn-secondary" style="display: none;" aria-label="إعادة تحديد الموقع">
                             <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                                 <path d="M17.65 6.35C16.2 4.9 14.21 4 12 4c-4.42 0-7.99 3.58-7.99 8s3.57 8 7.99 8c3.73 0 6.84-2.55 7.73-6h-2.08c-.82 2.33-3.04 4-5.65 4-3.31 0-6-2.69-6-6s2.69-6 6-6c1.66 0 3.14.69 4.22 1.78L13 11h7V4l-2.35 2.35z"/>
                             </svg>
@@ -214,11 +256,19 @@
                     </div>
                 </nav>
 
-                <p class="footer-text">© 2025 LG Electronics. جميع الحقوق محفوظة.</p>
+                <a href="https://smartstand-eg.com/" target="_blank" rel="noopener noreferrer" class="powered-link">
+                    <img src="smart-stand-logo-new.webp" alt="Smart Stand Egypt" class="smart-stand-logo">
+                </a>
+                <p class="powered-by">
+                    تم التطوير بواسطة
+                    <a href="https://smartstand-eg.com/" target="_blank" rel="noopener noreferrer" class="powered-link">
+                        Smart Stand Egypt
+                    </a>
+                </p>
             </div>
         </div>
     </footer>
 
-    <script src="script.js"></script>
+    <script src="script.min.js"></script>
 </body>
 </html>
